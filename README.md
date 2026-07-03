@@ -1,29 +1,12 @@
-# Portifolio-Francine
-
-
-<div align="center">
-
 # 👋 Olá, eu sou Francine Santos
 
-### 💻 Analista de TI • Automação • Inteligência Artificial • Desenvolvimento
+## 💻 Analista de TI | Automação | Inteligência Artificial | Desenvolvimento
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Analista+de+Tecnologia;Automação+de+Processos;Inteligência+Artificial;Python+•+n8n+•+Power+Platform;Sempre+em+evolução+🚀">
-
-</div>
+Sou apaixonada por tecnologia e inovação. Meu foco é criar soluções que automatizam processos, melhoram a produtividade e geram resultados através da tecnologia.
 
 ---
 
-# 🚀 Sobre mim
-
-Sou apaixonada por tecnologia, inovação e resolução de problemas.
-
-Atuo na área de Tecnologia da Informação buscando desenvolver soluções inteligentes, automatizar processos e melhorar a experiência dos usuários através da tecnologia.
-
-Atualmente estudo constantemente Inteligência Artificial, Desenvolvimento de Software, Cloud e Automações.
-
----
-
-## 💼 Áreas de atuação
+## 🚀 Áreas de atuação
 
 - 💻 Tecnologia da Informação
 - 🤖 Inteligência Artificial
@@ -39,68 +22,48 @@ Atualmente estudo constantemente Inteligência Artificial, Desenvolvimento de So
 
 ## 🛠 Tecnologias
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,docker,linux,vscode"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🤖 Atualmente estudando
+## 📚 Atualmente estudando
 
-- IA Generativa
-- Agentes Inteligentes
+- Inteligência Artificial Generativa
+- Agentes de IA
+- Engenharia de Prompt
 - n8n
-- APIs
+- APIs REST
 - Docker
 - GitHub Actions
-- Engenharia de Prompt
 
 ---
 
-## 📈 Estatísticas
+## 📊 Estatísticas
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francineenunes97-spec&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=francineenunes97-spec&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francineenunes97-spec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francineenunes97-spec&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 Contribuições
+## 🌎 Contato
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=francineenunes97-spec&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/francine-santoss/
+- 🐙 GitHub: https://github.com/francineenunes97-spec
 
 ---
 
-## 🌎 Vamos nos conectar
+## 💡 Frase
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/francine-santoss/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/francineenunes97-spec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+> "A tecnologia transforma ideias em soluções."
 
 ---
-
-<div align="center">
-
-### 💡 "A tecnologia transforma o mundo. Eu transformo tecnologia em soluções."
 
 ⭐ Obrigada por visitar meu perfil!
-
-</div>
